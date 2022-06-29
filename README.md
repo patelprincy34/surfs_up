@@ -1,8 +1,7 @@
 # surfs_up
-Module 9
 
 ### Overview of SurfsUp Analysis
-##### The purpose of this analysis is to look at temperature data between June and December to determine if having a surf shop year-round is feasible. The temperature data is obtained by doing two separate queries, one for June and the other for December.
+The purpose of this analysis is to look at temperature data between June and December to determine if having a surf shop year-round is feasible. The temperature data is obtained by doing two separate queries, one for June and the other for December.
 
 ### Results
 * For June the mean temperature was 75°F, min temperature was 64°F and max temperature was 85°F.
