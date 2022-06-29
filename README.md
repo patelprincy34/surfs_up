@@ -5,9 +5,11 @@ The purpose of this analysis is to look at temperature data between June and Dec
 
 ### Results
 * For June the mean temperature was 75°F, min temperature was 64°F and max temperature was 85°F.
+
 ![image](https://user-images.githubusercontent.com/93439516/149642021-fa2b5d1f-80be-43d5-af1b-2f9efa0d9b86.png)
 
 * For December the mean temperature was 71°F, min temperature was 56°F and max temperature was 83°F.
+
 ![image](https://user-images.githubusercontent.com/93439516/149642011-9827d1b5-de3f-4876-b21b-a9179370ad19.png)
 
 ### Summary
